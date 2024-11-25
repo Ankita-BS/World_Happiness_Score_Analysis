@@ -56,8 +56,10 @@ Code was written in Python and executed in Jupyter notebooks.
 ### Data Source
 https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors 
 This dataset provides valuable insights in understanding the dynamics of happiness and well-being worldwide. This dataset includes key metrics related to global happiness across all the regions for 9 years from 2015-2023. There are 9 different files, one for each year, all of which are concatenated for the analysis.
+The project includes 2 Json shapefiles for countries and continents.
 
 ### Visualizations
 View visualizations here: <a href="https://public.tableau.com/app/profile/ankita.bs/viz/WorldHappinessAnalysis_17324863339870/Story1">
                     <button>  Visualizations on Tableau Public</button>
                     </a> 
+The visualization contains only few relevant final results.
